@@ -1,3 +1,12 @@
+#ng commands
+
+ng g component components/game 
+
+ng g service components/services/currencyService
+
+
+
+
 # CurrencyCalc
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
